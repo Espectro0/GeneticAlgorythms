@@ -1,0 +1,8 @@
+Mutacion,Tiempo_s,MejorF,PromedioF,DesvEst,Individuo
+Pm=0.00,0.08315056,422,434.95,8.88804637820104,Guatapé → El Peñol → San Vicente → Guarne → Marinilla → UCO → Rionegro → El Retiro → La Unión → La Ceja → El Carmen → Santuario → Cocorná
+Pm=0.05,0.082494835,409,428.95,13.172838881977,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+Pm=0.10,0.09576771,409,430.9,12.6237036854024,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+Pm=0.20,0.0852908,409,425.65,12.2012725824636,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+Pm=0.50,0.07084597,409,427.25,12.0388625096525,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+Pm=0.70,0.088959325,409,426.85,11.8066662704191,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+Pm=1.00,0.090547025,412,430.4,9.63218289737176,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Unión → La Ceja → El Carmen → Santuario → Cocorná

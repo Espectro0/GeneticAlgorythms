@@ -1,0 +1,10 @@
+Iteraciones,Tiempo_s,MejorF,PromedioF,DesvEst,Individuo
+10,0.00741215,460,487.05,14.8872075074011,Guatapé → El Peñol → Marinilla → Santuario → Cocorná → UCO → Rionegro → San Vicente → Guarne → El Carmen → La Unión → La Ceja → El Retiro
+20,0.0120267,435,454.65,10.9076264966066,San Vicente → Guarne → El Carmen → La Unión → La Ceja → El Retiro → Rionegro → UCO → Marinilla → Santuario → Cocorná → El Peñol → Guatapé
+30,0.017392005,411,436.55,11.3854708891825,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → Rionegro → UCO → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+50,0.028652335,409,428.7,11.1737474277409,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+100,0.05526798,409,425.65,12.2012725824636,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+150,0.083226615,409,425.5,12.3948206500687,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+200,0.11107944,409,425.5,12.3948206500687,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+300,0.16640587,409,425.5,12.3948206500687,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
+500,0.27876408,409,425.5,12.3948206500687,Guatapé → El Peñol → Marinilla → San Vicente → Guarne → UCO → Rionegro → El Retiro → La Ceja → La Unión → El Carmen → Santuario → Cocorná
